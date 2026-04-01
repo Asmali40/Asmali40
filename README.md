@@ -8,6 +8,5 @@
 </p>
 
 ### My links
-<p align="center">
-  <a href="https://linkedin.com/in/efeyueksel">LinkedIn</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/efeyueksel)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Asmali40)
