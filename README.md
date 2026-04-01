@@ -7,6 +7,7 @@
   <h1 align="center">
     Technologies & Tools
   </h1>
+  <hr style="width:60%; border-top:1px solid #555; margin:10px auto 30px auto;" />
   
 </p>
 <p align="center">
@@ -18,6 +19,7 @@
 <h1 align="center">
   My Links
 </h1>
+<hr style="width:60%; border-top:1px solid #555; margin:10px auto 30px auto;" />
 
 <p align="center">
   <a href="https://linkedin.com/in/efeyueksel">
