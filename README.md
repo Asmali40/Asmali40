@@ -1,4 +1,6 @@
-![Know the power of the dark side](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkxcXViZThvdnk4bDd6bDNjbG9uMzljOHVxeGk5emdvODQwZTljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7guVjhMF9qBKE/giphy.gif)
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkxcXViZThvdnk4bDd6bDNjbG9uMzljOHVxeGk5emdvODQwZTljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7guVjhMF9qBKE/giphy.gif">
+</div>
 
 ### Technologies & Tools
 <p align="center">
