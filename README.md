@@ -13,9 +13,9 @@
   </a>
 </p>
 
-<h3 align="center">
+<h1 align="center">
   My Links
-</h3>
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/efeyueksel">
