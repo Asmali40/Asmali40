@@ -28,8 +28,4 @@
   </a>
 </p>
 
-<center>
-  <hr style="width:60%; border:0.5px solid #ccc;">
-</center>
-
 <hr style="width: 60%; border: 1px solid #444444; margin: 10px auto;">
