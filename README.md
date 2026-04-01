@@ -1,4 +1,7 @@
----
+<center>
+  <hr style="width:60%; border:1px solid #ccc;">
+</center>
+
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkxcXViZThvdnk4bDd6bDNjbG9uMzljOHVxeGk5emdvODQwZTljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7guVjhMF9qBKE/giphy.gif">
 </div>
@@ -27,4 +30,6 @@
   </a>
 </p>
 
----
+<center>
+  <hr style="width:60%; border:1px solid #ccc;">
+</center>
