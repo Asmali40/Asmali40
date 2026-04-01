@@ -2,10 +2,10 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkxcXViZThvdnk4bDd6bDNjbG9uMzljOHVxeGk5emdvODQwZTljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7guVjhMF9qBKE/giphy.gif">
 </div>
 
-<p align="center">
-  <h1>
-      Technologies & Tools
+  <h1 align="center">
+    Technologies & Tools
   </h1>
+  
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,6 +13,15 @@
   </a>
 </p>
 
-<p align="center">My links</p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/efeyueksel)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Asmali40)
+<h3 align="center">
+  My Links
+</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/efeyueksel">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/Asmali40">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github">
+  </a>
+</p>
