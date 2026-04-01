@@ -4,9 +4,9 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkxcXViZThvdnk4bDd6bDNjbG9uMzljOHVxeGk5emdvODQwZTljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7guVjhMF9qBKE/giphy.gif">
 </div>
 
-  <h1 align="center">
+  <h2 align="center">
     Technologies & Tools
-  </h1>
+  </h2>
   <hr style="width:60%; border-top:1px solid #555; margin:10px auto 30px auto;" />
   
 </p>
@@ -16,9 +16,9 @@
   </a>
 </p>
 
-<h1 align="center">
+<h2 align="center">
   My Links
-</h1>
+</h2>
 <hr style="width:60%; border-top:1px solid #555; margin:10px auto 30px auto;" />
 
 <p align="center">
