@@ -38,10 +38,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/efeyueksel">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Asmali40">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 </p>
 
