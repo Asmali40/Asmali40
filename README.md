@@ -35,7 +35,7 @@
 </h3>
 
 <p align="center">
-  <a href="DEIN_LINKEDIN">
+  <a href="www.linkedin.com/in/efeyueksel">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   &nbsp;&nbsp;
@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="DEIN_REDDIT_PROFIL">
+  <a href="https://www.reddit.com/user/AsmaliKirk">
     <img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" />
   </a>
 </p>
