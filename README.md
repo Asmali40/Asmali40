@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asmali40&show_icons=true&theme=dark" />
+</p>
+
 <hr style="width:60%; border-top:1px solid #555; margin:10px auto 30px auto;" />
 
 <h3 align="center">
@@ -28,3 +32,4 @@
     <img src="https://img.shields.io/badge/GitHub-black?logo=github">
   </a>
 </p>
+
