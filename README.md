@@ -37,16 +37,16 @@
 </h3>
 
 <p align="center">
-  <a href="DEIN_LINKEDIN">
+  <a href="DEIN_LINKEDIN" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Asmali40">
+  <a href="https://github.com/Asmali40" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="DEIN_REDDIT_PROFIL">
-    <img src="https://skillicons.dev/icons?i=reddit" width="40" />
+  <a href="DEIN_REDDIT_PROFIL" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=reddit/FF4500" width="40" />
   </a>
 </p>
 
