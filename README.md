@@ -36,11 +36,11 @@
 
 <p align="center">
   <a href="DEIN_LINKEDIN">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Asmali40">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="DEIN_REDDIT_PROFIL">
