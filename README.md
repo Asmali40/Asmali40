@@ -14,6 +14,8 @@
   </a>
 </p>
 
+<hr style="width:60%; border-top:1px solid #555; margin:10px auto 30px auto;" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asmali40&show_icons=true&theme=dark" />
 </p>
