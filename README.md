@@ -1,7 +1,7 @@
 <hr style="width:60%; border-top:1px solid #555; margin:10px auto 30px auto;" />
 
 <h3 align="center">
-  Luke, I am your developer.
+  Luke, I am your developer
 </h3>
 
 <div align="center">
