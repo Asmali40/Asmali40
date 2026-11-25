@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,spring,py,fastapi,go,html,css,docker,kubernetes,postgres,linux,terraform,azure" />
+  <img src="https://skillicons.dev/icons?i=cs,java,spring,py,fastapi,go,html,css,docker,kubernetes,postgres,linux,terraform,azure,typescript,javascript,react" />
 </p>
 
 <hr style="width:60%; border-top:1px solid #555; margin:10px auto 30px auto;" />
